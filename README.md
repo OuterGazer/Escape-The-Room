@@ -7,7 +7,7 @@ The objective of the game is to solve the puzzles and manage to get out of your 
 The gameplay is based on writting single word commands like 'pick', 'examine', 'use' or 'move' in addition to a noun representing an object/location in the game.
 
 Premise and controls are explained at the beginning of the game.
-For the help menu you can type 'help' or 'h' at any given time, it will show the full list of commands available and som general tips.
+For the help menu you can type 'help' or 'h' at any given time, it will show the full list of commands available and some general tips.
 
 You are able to save the state of the game any time and continue back wherever you left.
 
